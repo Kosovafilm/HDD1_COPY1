@@ -1,5 +1,5 @@
 # HDD1_COPY1
-Permbajtja e HDD1 (Kosovafilm&amp; AQSHF)
+Permbajtja e HDD1_COPY1 (Kosovafilm&amp; AQSHF)
 
 <!DOCTYPE html>
 <html lang="en">
